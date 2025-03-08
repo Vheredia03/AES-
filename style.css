@@ -1,0 +1,16 @@
+
+
+.banner {
+    background-color: rgb(122, 171, 202);
+    height: 100px;
+}
+
+/* Selector de Etiqueta HTML */
+
+h2 {
+    text-align: center;
+}
+
+h6 {
+    color: rgb(41, 40, 40);
+}
