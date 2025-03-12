@@ -1,16 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
 
 
-.banner {
-    background-color: rgb(122, 171, 202);
-    height: 100px;
-}
-
-/* Selector de Etiqueta HTML */
-
-h2 {
+.titulo {
+    background-color: lightblue;
+    padding: 50px;
     text-align: center;
+    font-family: 'Times New Roman', Times, serifs;
 }
 
-h6 {
-    color: rgb(41, 40, 40);
+.navegacion {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serifs;
+    background-color: dimgray;
+    padding: 15px;
 }
+nav a {
+    margin: 0 10px; 
+    text-decoration: none; 
+    padding: 5px; 
+    color: black;
+}
+  
